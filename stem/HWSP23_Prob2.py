@@ -1,6 +1,6 @@
 #region imports
 from sympy.stats.rv import probability
-
+#collobrated with Chat for score and Tally process
 from Dice import rollDice, rollUnFairDice  #imports functions from stem Dice
 #endregion
 

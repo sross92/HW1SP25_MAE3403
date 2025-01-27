@@ -1,7 +1,7 @@
 # region imports
 import random as rnd
 # endregion
-
+# collobrated with Chat to understand how to utilize the parameters
 # region functions
 def between(num, low, high, inclusivelow=True, inclusivehigh=True):
     """

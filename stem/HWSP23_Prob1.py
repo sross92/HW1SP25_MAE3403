@@ -2,7 +2,7 @@
 from Die import rollFairDie as rfd, rollUnFairDie as rufd #imports functions from Die and
 # renames them rfd and rufd for this problem
 # endregion
-
+# collobrated with Chat to verify the i and score statements
 # region function declarations
 def main():
     """
