@@ -11,7 +11,7 @@ def rollDice(N=1):
     :return: the total score from rolling N dice
     """
     total_score = 0
-    for _ in range(N):
+    for i in range(N):
         total_score += rollFairDie()
     return total_score
 
@@ -24,7 +24,7 @@ def rollUnFairDice(N=1):
     :return: the total score from rolling N dice
     """
     total_score = 0
-    for _ in range(N):
+    for i in range(N):
         total_score += rollUnFairDie()
     return total_score
 
